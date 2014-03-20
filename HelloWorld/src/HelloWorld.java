@@ -9,7 +9,7 @@ public class HelloWorld
 	        int i=0;
 	        int j=0;
 	        int k=0;
-	       
+	       //durch scharfes Hinsehen als falsch befunden!
 	        while (i<a.length){
 	           
 	            while (j<a.length){
